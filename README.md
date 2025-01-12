@@ -16,30 +16,15 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm EthJan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and all things tech. Here's a bit more about me:
+Coding is fun!
 
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 👯 I’m interested in working on anything tech.
 
-## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, VS Code, PyCharm
 
 ## 📈 GitHub Stats
-![EthJan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthJan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthJan&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to learning and growing together with the community!
-
-Thanks for stopping by! 😊
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-jan-868b94245/))
