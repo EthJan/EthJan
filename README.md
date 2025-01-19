@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Coding is fun!
 
+Resume: https://github.com/EthJan/EthJan/blob/main/Resume_Ethan.pdf
+
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m interested in working on anything tech.
@@ -25,5 +27,4 @@ Coding is fun!
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthJan&layout=compact&theme=radical)
 
-## 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-jan-868b94245/))
+- [LinkedIn] : https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-jan-868b94245/
