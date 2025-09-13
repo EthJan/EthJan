@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Coding is fun!
-
 ## 🚀 About Me
 - 🌱 I’m interested in coding, machine learning, and finance
 -  Play volleyball, tennis, hockey, golf and badminton
