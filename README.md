@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Coding is fun!
 
-Resume: https://github.com/EthJan/EthJan/blob/main/Resume_Ethan.pdf
-
 ## 🚀 About Me
 - 🌱 I’m interested in coding, machine learning, and finance
 -  Play volleyball, tennis, hockey, golf and badminton
@@ -27,4 +25,4 @@ Resume: https://github.com/EthJan/EthJan/blob/main/Resume_Ethan.pdf
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthJan&layout=compact&theme=radical)
 
-- [LinkedIn] : https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ethan-jan-868b94245/
+- [LinkedIn] : https://www.linkedin.com/in/your-profile]([https://www.linkedin.com/in/ethan-jan-868b94245/](https://www.linkedin.com/in/ethjan/)
