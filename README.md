@@ -26,3 +26,4 @@ Coding is fun!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthJan&layout=compact&theme=radical)
 
 - [LinkedIn] : [https://www.linkedin.com/in/your-profile]([(https://www.linkedin.com/in/ethjan/])
+**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ethjan/)
