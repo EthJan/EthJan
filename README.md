@@ -21,7 +21,7 @@ I’m a 3rd-year Industrial Engineering student at the University of Toronto, pu
 
 ## 🚀 About Me
 - 🌱 I’m interested in data science, machine learning, and finance
--  Play volleyball, tennis, hockey, golf and badminton
+- 😄 Play volleyball, tennis, hockey, golf and badminton
 - 📚 Coursework includes Fundamentals of Deep Learning, Machine Learning, Programming in Java, Data Structures and Algorithms, Data Science, Programming in C, Operations Research (I, II, III), Engineering Economics, Data Modelling
 
 ## 💻 Skills
